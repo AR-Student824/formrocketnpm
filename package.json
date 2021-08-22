@@ -1,0 +1,19 @@
+{
+  "name": "formrocket.js",
+  "version": "0.1.0",
+  "description": "A powerful JavaScript library for FormRocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "forms",
+    "formrocket",
+    "html",
+    "form",
+    "javascript",
+    "new"
+  ],
+  "author": "arcodez",
+  "license": "ISC"
+}
